@@ -65,15 +65,6 @@ TestHub.uz is a complete, production-ready full-stack DTM Mock Test platform for
 
 ---
 
-## Seed Accounts
-
-- **Admin Account**: 
-  - Username: `admin`
-  - Password: `admin123`
-- **Standard User Accounts**:
-  - Usernames range from `user1` to `user10`
-  - Password: `password123`
-
 ---
 
 ## Tech Stack
